@@ -1,4 +1,8 @@
 
+Running this code together will create a knowledge graph for conservation technology at TNC.
+This can be used as a template to create own tags and relationships, thus own knowledge graphs, with other databases.
+
+
 For creating a node graph in neo4j out of database stored in Smartsheet or Excel:
 
 
