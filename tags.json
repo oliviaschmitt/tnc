@@ -1,0 +1,38 @@
+[
+  {
+    "tagName": "2030Tags",
+    "tag": ["\"Land: Conserve 650 million hectares of healthy lands, such as forests and grasslands—an area twice the size of India\",Climate: Remove or sequester 3 billion metric tons of carbon dioxide emissions (CO2e) per year,\"People: Support 45 million people who depend on ocean, freshwater and lands for their wellbeing and livelihoods\",Freshwater: Conserve 1 million km of river systems and 30 million hectares of lakes and wetlands,\"Climate: Help 100 million people who are most likely to be affected by climate-related emergencies such as floods, fires and drought\",Ocean: Conserve 4 billion hectares of ocean—more than 10% of the world’s ocean area"]
+  },
+  {
+    "tagName": "projectGoals",
+    "tag": ["Accerlerate, Augment, Accountable"]
+  },
+  {
+    "tagName": "projectTags",
+    "tag": ["Detecting invasive species,Planning prescribed burns,Weather forecasting,Monitoring microhabitats,Evaluating movement patterns,Assessing project impact,Determining river trends,Monitoring water quality,Remote sensing,Installing weather stations,Installing connected sensor network,Collaborative Research,Analyzing satellite imagery,Detecting OHV activity,Camera trapping,Restoration,Reducing risk for communities,Analyzing change over time,Conservation planning,Conducting outreach,Stormwater management,Measuring biodiversity"]
+  },
+  {
+    "tagName": "techCatTags",
+    "tag": ["AI/ML,IoT,Blockchain,Drones,eDNA,GIS,Venture Engagement,Radar,AIS,Acoustics,Imagery"]
+  },
+  {
+    "tagName": "techSubCatTags",
+    "tag": ["DataRobot,Benchmark Labs,BurnCast Model,DecentLab,Lorix One,Ubidots,GybeMaps,GybeSensors,Moovement,GPS Tags,PAM,AniML,KelpWatch,Buckeye x80s,Brightstorm,Opti \"Smart\" Ponds,Google Cloud Platform,Google Earth Engine,BigQuery,Stormwater Heatmap,Drone2Map,DJI Phantom 3 Professional,Landsat,Sentinel-2,Sentinel-1,New York State Orthoimagery,National Agriculture Imagery Program,Google Earth imagery,The Things Stack,LoRawan,MapBioMas,Agroideal,NIMBUS,Planet,SMART Tool,Barn Owl,ArcGIS,ESRI,Astraea,Garmin Astro 430 Tracking Bundle,IGNIS,DroneDeploy,Survey123,ArcGIS Pro,Microsoft AI,Zooniverse,Audio Moth,BioMap2,LAMS,Upstream Tech,Lens"]
+  },
+  {
+    "tagName": "orgs/BUs",
+    "tag": ["Ctr for Sustainability Science,Provide Food and Water Sustain,\"Global Diversity, Equity & Inc\",Protect Land and Water,Africa Region Program,AP Peoples Republic of China,AP Mongolia,AP  Australia,AP Papua New Guinea,AP Solomon Islands,AP Indonesia,AP Melanesia,AP New Zealand,Asia-Pacific Region Office,AP Myanmar,Corporate Engagement,NatureVest,Chief Operating Officer,Chief Conservation Office,Carbon Markets,Europe,Micronesia,Great Plains Division Office,Impact Finance and Markets Div,India,Brazil Operating Unit,Mexico,Belize,Guatemala,Ecuador,Latin America Region Program,LA N. Andes & S. Cent Am,LA Southern Andes,LA Peru Operating Unit,LA Argentina Operating Unit,North America Region Program,Caribbean Division,Arkansas,Illinois,Indiana,Iowa,Kansas,Kentucky,Louisiana,Michigan,Tri-State,Mississippi,Missouri,Nebraska,Ohio,Oklahoma,Tennessee,Texas,Wisconsin,Alabama,Connecticut,Delaware,Florida,Georgia,Maine,Maryland,Massachusetts,New Hampshire,New Jersey,New York,North Carolina,Rhode Island,South Carolina,Vermont,Virginia,West Virginia,North East Division Office,Pennsylvania and Delaware Chpt,Alaska,Arizona,California,Colorado,Hawaii,Idaho,Montana,Nevada,New Mexico,Oregon,Utah,Washington,Wyoming,Canada,Western U.S. & Canada Division,Southern US Division Office,Tackle Climate Change,Midwest Division Office,WO Executive Leadership,Global Science,People Team,WO External Affairs Team,WO Office of the CEO,WO General Counsel Team,Global Marketing & Comms,WO Development,WO Finance Team,WO Information & Technology,Water Funds,Sustainable Rivers Program"]
+  },
+  {
+    "tagName": "preserves",
+    "tag": ["\"Waikamoi Preserve, HI\",\"Platte River Prairie, NE\",\"Tallgrass Aspen Parklands, MN\",\"Jack and Laura Dangermond Preserve, CA\",\"Water Institute of the Gulf, LA\",\"Cape Fear River, NC\",\"Jaguari-Jacarei Reservoir, BRA\",\"Palmyra Atoll, USA\",Mississippi River Basin,\"Atchafalaya River, LA\",\"Nachusa Preserve, IL\",\"Ribeirão das Lajes Reservoir, BRA\",\"Rio Grande Reservoir, COL\",\"Thika Reservoir, KEN\",\"Mojave Desert, NV\",\"Mojave Desert, CA\",\"Santa Cruz Island, CA\",\"Puget Sound, WA\",\"Redmond, WA\",\"Adirondacks, NY\",\"Lake George Basin, NY\",\"Gran Chaco, ARG\",\"Madang Province, PNG\",\"Port Moresby, PNG\",\"Milne Bay, PNG\",\"Indonesia\",\"Solomon Islands\",\"Chesapeake Bay\",\"Delmarva Pennisula\",\"Nassawango Creek Preserve, MD\",\"Jackson Hole, WY\",\"Red Canyon Ranch, WY\""]
+  },
+  {
+    "tagName": "collabs",
+    "tag": ["DataRobot,Gybe,Moovement,University of Hawai'i,Benchmark Labs,UCLA,UCSB,NASA,Woods Hole Oceanographic Institution,Sea Foundry,Opti,CUNY Advanced Science Research Center,Ducks Unlimited,NASA Develop,Department of Natural Resources,US Fish and Wildlife,MassWildlife Natural Heritage,University of Wyoming,SUNY-ESF"]
+  },
+  {
+    "tagName": "techVsCons",
+    "tag": ["Technical, Conservation"]
+  }
+]
