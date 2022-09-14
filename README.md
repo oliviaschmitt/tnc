@@ -19,7 +19,8 @@ TAGS: (allows you to search for properties and create relationships)
 CARDS: (the database)
 1. Export learning card database (each row is a card) to csv
 2. Convert csv to json
-3. See below for formatting<img width="662" alt="Screen Shot 2022-09-14 at 12 03 17 PM" src="https://user-images.githubusercontent.com/89168989/190205684-f313d74a-7d5d-43d0-93d0-18aa586310c4.png">
+3. See below for formatting
+<img width="662" alt="Screen Shot 2022-09-14 at 12 03 17 PM" src="https://user-images.githubusercontent.com/89168989/190205684-f313d74a-7d5d-43d0-93d0-18aa586310c4.png">
 
 
 
