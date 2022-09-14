@@ -1,5 +1,5 @@
 
-Running this code together will create a knowledge graph for conservation technology at TNC.
+Running this code as is will create a knowledge graph for conservation technology learnings at TNC.
 This can be used as a template to create own tags and relationships, thus own knowledge graphs, with other databases.
 
 
